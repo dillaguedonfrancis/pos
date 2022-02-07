@@ -1,0 +1,173 @@
+body{
+	background: rgba(0, 0, 0, 0.1) url(bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: white;
+}
+
+#navigation{
+	background-color: rgba(0, 0, 0, 0.1);
+	margin-left: -8px;
+	width: 250px;
+	height: 660px;
+	margin-top: -8px;
+}
+
+.btnPolls{
+	width: 250px;
+	height: 50px;
+	border:none;
+	background: transparent;
+	color: white;
+   box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.2);
+   margin-bottom: 5px;
+}
+
+.btnCH{
+	width: 250px;
+	height: 50px;
+	border:none;
+	background-color:#B6223B;
+	color: white;
+   box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.2);
+   margin-bottom: 5px;
+}
+
+.btnPolls:hover{
+	background-color: #B6223B;
+}
+
+#viewPassword{
+	background-color: rgba(0, 0, 0, 0.5);
+	margin-left: 250px;
+	margin-top: -660px;
+	height: 660px;
+	width: 1030px;
+}
+
+#products{
+	background-color: rgba(0, 0, 0, 0.1);
+	margin-left: 250px;
+	margin-top: -660px;
+	height: 660px;
+	width: 1030px;
+}
+
+.pButton{
+	width: 100px;
+	height: 30px;
+	border:none;
+	background-color: rgba(182, 34, 59, 0.9);
+	color: white;
+   box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.2);
+   margin-bottom: 5px;
+}
+
+.pButton:hover{
+	background-color:#B6223B;
+}
+
+#chID{
+	margin-right: 5px;
+	margin-left: -2px;
+}
+
+.inputs{
+	border: none;
+	height: 30px;
+	width: 200px;
+	border-left: 8px solid #B6223B;
+}
+
+.inputs:focus{
+	background-color: #f4ff81;
+	color: black;
+}
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	text-align: center;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+td{
+	color: black;
+}
+
+#customers tr{
+	background-color: rgba(200,200,200, 0.8);
+}
+
+#customers tr:hover {
+	background-color: #F07F92;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+	background-color: rgba(182, 34, 59, 0.9);
+    color: white;
+}
+
+.cart{
+	background: transparent;
+	border: none;
+	outline:none;
+	width: 80px;
+}
+
+#productss{
+	background: transparent;
+	margin-left: -40px;
+	width: 250px;
+}
+
+.btnhidden{
+	background: transparent;
+	width: 250px;
+	height:40px;
+	border:none;
+	color:white;
+	outline:none;
+}
+
+.btnhidden:hover{
+	background-color: #B6223B;
+}
+
+.btnView{
+	background-color: #B6223B;
+	width: 250px;
+	height:40px;
+	border:none;
+	color:white;
+	outline:none;
+}
+
+.cart:hover{
+	color: white;
+}
+
+.buttons{
+	width: 200px;
+	height: 30px;
+	border:none;
+	background-color: rgba(182, 34, 59, 0.9);
+	color: white;
+   box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.2);
+   margin-bottom: 5px;
+}
+
+#profile{
+	width: 100px;
+	height: 100px;
+}

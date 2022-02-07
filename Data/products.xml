@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<products>
+<product><id>4</id><name>Dota</name><price>123</price><quantity>-1</quantity><picture>uploads/dota 2.jpg</picture></product><product><id>5</id><name>Fall Out I</name><price>100</price><quantity>2133</quantity><picture>uploads/fallout1.jpg</picture></product><product><id>6</id><name>Fall Out II</name><price>200</price><quantity>1233</quantity><picture>uploads/fallout2.png</picture></product><product><id>7</id><name>Fall Out III</name><price>300</price><quantity>1232</quantity><picture>uploads/fallout3.jpg</picture></product><product><id>8</id><name>Fall Out IV</name><price>400</price><quantity>233</quantity><picture>uploads/fallout4.png</picture></product></products>

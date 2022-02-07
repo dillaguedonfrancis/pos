@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<username>admin</username>
+		<password>admin</password>
+		<firstname>gilbert</firstname>
+		<middlename>pastor</middlename>
+		<lastname>deregla</lastname>
+	</user>
+<user><username>qwe</username><password>qwe</password><firstname>qwe</firstname><middlename>qwe</middlename><lastname>qwe</lastname></user><user><username>user</username><password>user</password><firstname>user</firstname><middlename>user</middlename><lastname>user</lastname></user></users>
